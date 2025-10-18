@@ -1,0 +1,39 @@
+{
+  "Kyiv": {
+    "temp": 18,
+    "feels": 17,
+    "humidity": 60,
+    "wind": 4,
+    "pressure": 1016,
+    "desc": "Cloudy",
+    "icon": "04d",
+    "forecast7": [
+      { "day": "Mon", "temp": 18, "desc": "Cloudy",      "icon": "04d" },
+      { "day": "Tue", "temp": 20, "desc": "Few clouds",  "icon": "02d" },
+      { "day": "Wed", "temp": 17, "desc": "Rain",        "icon": "10d" },
+      { "day": "Thu", "temp": 16, "desc": "Rain",        "icon": "10d" },
+      { "day": "Fri", "temp": 19, "desc": "Clear",       "icon": "01d" },
+      { "day": "Sat", "temp": 21, "desc": "Clear",       "icon": "01d" },
+      { "day": "Sun", "temp": 22, "desc": "Scattered",   "icon": "03d" }
+    ]
+  },
+  "Lviv": {
+    "temp": 16,
+    "feels": 15,
+    "humidity": 70,
+    "wind": 3,
+    "pressure": 1012,
+    "desc": "Partly cloudy",
+    "icon": "03d",
+    "forecast7": [
+      { "day": "Mon", "temp": 16, "desc": "Cloudy",     "icon": "03d" },
+      { "day": "Tue", "temp": 17, "desc": "Sunny",      "icon": "01d" },
+      { "day": "Wed", "temp": 18, "desc": "Sunny",      "icon": "01d" },
+      { "day": "Thu", "temp": 15, "desc": "Light rain", "icon": "10d" },
+      { "day": "Fri", "temp": 17, "desc": "Few clouds", "icon": "02d" },
+      { "day": "Sat", "temp": 18, "desc": "Clear",      "icon": "01d" },
+      { "day": "Sun", "temp": 19, "desc": "Clear",      "icon": "01d" }
+    ]
+  }
+}
+

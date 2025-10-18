@@ -1,0 +1,13 @@
+{
+  "city":{"timezone":10800},
+  "list":[
+    {"dt":1728892800,"main":{"temp":19.1},"weather":[{"icon":"04d","description":"clouds"}]},
+    {"dt":1728903600,"main":{"temp":18.4},"weather":[{"icon":"04d","description":"clouds"}]},
+    {"dt":1728914400,"main":{"temp":17.2},"weather":[{"icon":"10n","description":"rain"}]},
+    {"dt":1728925200,"main":{"temp":16.3},"weather":[{"icon":"10n","description":"rain"}]},
+    {"dt":1728936000,"main":{"temp":18.6},"weather":[{"icon":"02d","description":"few clouds"}]},
+    {"dt":1728946800,"main":{"temp":20.0},"weather":[{"icon":"01d","description":"clear"}]},
+    {"dt":1728957600,"main":{"temp":19.4},"weather":[{"icon":"01n","description":"clear"}]},
+    {"dt":1728968400,"main":{"temp":17.8},"weather":[{"icon":"03n","description":"scattered clouds"}]}
+  ]
+}

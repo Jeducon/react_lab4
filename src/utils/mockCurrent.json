@@ -1,0 +1,7 @@
+{
+  "coord": {"lon":30.5167,"lat":50.4333},
+  "weather":[{"id":803,"main":"Clouds","description":"broken clouds","icon":"04d"}],
+  "main":{"temp":18.9,"feels_like":18.2,"pressure":1016,"humidity":62},
+  "wind":{"speed":3.6},"sys":{"sunrise":1728882000,"sunset":1728920400},
+  "timezone":10800,"name":"Kyiv"
+}
